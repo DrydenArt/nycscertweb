@@ -1,6 +1,6 @@
 ## Welcome to DrydenArt's GitHub
 
-You can use the [CS Awesome](https://runestone.academy/ns/books/published//csawesome/index.html) to maintain and preview the content for your website in Markdown files.
+I've found [CS Awesome](https://runestone.academy/ns/books/published//csawesome/index.html) to be an extremely helpful resource.
 
 You can use the [editor on GitHub](https://github.com/DrydenArt/nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
