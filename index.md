@@ -9,5 +9,5 @@ This is my first time using Pages in GitHub!
 2. The [GeeksforGeeks]([https://github.com/DrydenArt/nycscertweb/edit/gh-pages/index.md](https://www.geeksforgeeks.org/)) site is a nice companion to use with CS Awesome.
 3. There are lots of other resources, but it's Friday....
 
-
+![This is an image](https://www.shecos.com/blog/wp-content/uploads/2019/11/perry-the-platypus-cosplay.jpg)
 
