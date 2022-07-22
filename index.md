@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DrydenArt's GitHub
 
 You can use the [editor on GitHub](https://github.com/DrydenArt/nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
