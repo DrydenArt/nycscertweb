@@ -1,6 +1,6 @@
 ## Welcome to DrydenArt's GitHub
 
-This is my first time using Pages in GitHub!
+Hi, I'm Elizabeth Rechtin and this is my first time using Pages in GitHub!
 
 ### Summer Courses at Hunter College
 [Click here](Courses.md) to see what I've been up to this summer!
