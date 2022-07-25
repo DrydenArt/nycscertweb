@@ -6,7 +6,7 @@
 |[Nim](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/programming/1/Nim.java)|[LinkedLists](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/ds/linkedlists/LinkedList.java)|[Lesson 1](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/methods/01_lesson/01Lesson.pdf)|
 |[SuperArray](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/programming/6/sa/SuperArray.java)|[ArrayListsPractice](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/ds/arraylists/AlPractice.java)|[RallyCross Peer Programming](https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/methods/toolbox/RallyCross_PP/RallyCross.java)|
 
-Back to my Home Page
+[Back to my Home Page](index.md)
 
 
 
