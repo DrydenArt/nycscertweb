@@ -2,6 +2,8 @@
 
 This is my first time using Pages in GitHub!
 
+###Summer Courses at Hunter College
+[Click here] to see what I've been up to this summer!
 
 ### Resources I've Found Helpful:
 
